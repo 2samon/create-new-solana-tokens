@@ -1,4 +1,4 @@
-# How to create and launch solana meme coin token
+# How to create and launch solana meme coin token by SolDev
 
 This codebase provides pre-built scripts to help you:
 
@@ -6,7 +6,6 @@ This codebase provides pre-built scripts to help you:
 - Mint tokens to your wallet address
 - Revoke mint and freeze authority
 
-The original memecoin creation youtube video tutorial is [here](https://youtu.be/hRz9Gyf9Ukg)
 
 **disclaimer**: Use this code at your own risk as it is here for educational purposes, there is no guarantee of profit! DO NOT use the default solana RPC in production, instead use an RPC provider to ensure reliability, speed and effectiveness of the bot.
 
@@ -41,8 +40,8 @@ You need your token address for the next step.
 
 ## Create market id and new liquidity pool
 
-The scripts to create market id, create new lp, and burn token are only available to premium users. If you'd like access to these scripts and the full in-depth workshop tutorial, check out the preview video and access link [here](https://www.youtube.com/watch?v=f1hqFeCw2ro)
-
+The scripts to create market id, create new lp, and burn token are only available to premium users.
+********Purchases can only be done via telegram.********
 ## Troubleshooting
 
 - airdrop internal error: retry the script with a rpc provider connection instead of default solana connection. If that doesn't work, use a faucet here: [airdrop resources](https://solana.com/developers/guides/getstarted/solana-token-airdrop-and-faucets)
@@ -50,8 +49,8 @@ The scripts to create market id, create new lp, and burn token are only availabl
 ## Contact
 
 For community discussions on sniper bots and creating new tokens:
-[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/yNS6JpTv)
+[![]([(http://t.me/Tumblerexec))
 
 For any business inquiries, reach out at:
 
-- Telegram: `archiekomik`
+- Telegram: `Soldevvv`
